@@ -1,2 +1,1 @@
-# Mi-primer-repositorio
-Repositorio para la actividad de GitHub
+2525-FP-KUKUSH-JESSICA
